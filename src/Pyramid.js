@@ -18,4 +18,4 @@ function pyramid(n){
 
 }
 
-pyramid(3);
+pyramid(10);
