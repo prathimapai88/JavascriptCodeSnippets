@@ -1,4 +1,3 @@
-
 # JavaScript Interview questions
 
 This project contains Commonly interview questions
